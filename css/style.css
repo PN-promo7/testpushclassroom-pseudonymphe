@@ -64,6 +64,7 @@ section, footer, .col article, .foot-col{
 .main-nav {
   background-color: #020204;
   position: fixed;
+  top: 0;
   width: 100%;
   z-index: 4;
 }
@@ -113,7 +114,6 @@ header {
   background-position: top;
   background-repeat: no-repeat;
   padding: 100px 0;
-  height: 100%;
   margin: 0;
   width: 100%;
   z-index: 0;
