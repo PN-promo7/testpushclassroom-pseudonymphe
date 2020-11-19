@@ -128,7 +128,7 @@ header .container {
   left: 50%;
   position: absolute;
   text-align: center;
-  top: 60%;
+  top: 90%;
   transform: translate(-50%, -50%);
   z-index: 3;
 }
@@ -137,7 +137,7 @@ header .container {
   left: 50%;
   position: absolute;
   text-align: center;
-  top: 67%;
+  top: 97%;
   transform: translate(-50%, -50%);
   z-index: 3;
 }
