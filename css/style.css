@@ -120,6 +120,7 @@ header {
 }
 
 header .container {
+  padding: 400px 0;
   position: relative;
 }
 
@@ -127,16 +128,17 @@ header .container {
   left: 50%;
   position: absolute;
   text-align: center;
-  top: 480px;
-  transform: translate(-47%, -50%);
+  top: 60%;
+  transform: translate(-50%, -50%);
   z-index: 3;
 }
 
 .header-btn {
-  left: 40%;
+  left: 50%;
   position: absolute;
   text-align: center;
-  top: 510px;
+  top: 67%;
+  transform: translate(-50%, -50%);
   z-index: 3;
 }
 
